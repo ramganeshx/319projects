@@ -1,0 +1,31 @@
+{
+    "locations": [
+      {
+        "locationName": "East Side Marketplace",
+        "menu": "It offes Caesar Salad, Southwest Chicken Salad, Veggie Breakfast Burrito, Gourmet Italian Sandwich",
+        "text": "East Side Marketplace located at 224 Beach Rd, is a restaurant that offers a variety of options.",
+        "image": "./images/eastside.jpeg"
+      },
+  
+      {
+        "locationName": "West Side Marketplace",
+        "menu": "It offers, Plain Bagels, Brownie, Hawaiian Ham and Swiss Slider, Pineapple Cup",
+        "text": "West Side Market Place is a restaurant located at 207 Beyer Ct. You can build your own sandwiches, or grab a snack.",
+        "image": "./images/west.jpeg"
+      },
+  
+      {
+        "locationName": "Conversations",
+        "menu": "It offers Malibu Burger, Curly Fries, Vegetable Cup, Mac n Cheese, Ice Cream Sandwich",
+        "text": "Conversations (Convos) is a fast-casual restaurant located at 455 Richardson Ct. It provides a variety of options and is vegetarian friendly.",
+        "image": "./images/conv.jpeg"
+      },
+      {
+        "locationName": "Clyde's",
+        "menu": "Fried Potato's, Falafel Burger, Fried Egg, Bacon, Coffee",
+        "text": "Clydes is a restaurant located at the bottom of UDCC. You can get ice cream, coffee, and a variety of vegetarian options including a falafel burger.",
+        "image": "./images/clyde.jpeg"
+      }
+    ]
+  }
+  
